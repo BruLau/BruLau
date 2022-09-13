@@ -11,6 +11,8 @@
 
 <h3 align="center">you can contact me at:</h3> 
 <div align="center"><a  href="www.linkedin.com/in/bruno-mateo-lauricella" align="center">My linkedin</a></div>
+<hr></hr>
+<h3 align="center">Thanks for viewing my profile, below you can see my projects 👇</h3> 
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
