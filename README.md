@@ -11,6 +11,10 @@
   <li>PostgreSQL, Sequalize, MongoDB</li>
 </ul>
 
+<h3 align="center">you can contact me at:</h3> 
+<ul>
+  <li><a href="www.linkedin.com/in/bruno-mateo-lauricella">My linkedin</a></li>
+</ul>
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
