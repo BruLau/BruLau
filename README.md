@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a computer technician and fullstack developer and I love working in the world of technology 💻🧡 </h3> 
 
-<img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img>
+<div align="center"><img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img></div>
 
 I have knowledge in 
 
