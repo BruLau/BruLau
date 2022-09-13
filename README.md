@@ -6,7 +6,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img></div>
 <hr></hr>
 <h3 align="center">I have knowledge in:</h3> 
-<ul>
+<ul style= "text-decoration:none">
   <li>JavaScript, HTML5, CSS, React, Redux, Express, Node.js</li>
   <li>PostgreSQL, Sequalize, MongoDB</li>
 </ul>
