@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+Hi, my name is Bruno Lauricella, I am a computer technician and fullstack developer.  
+I love working in the world of technology 💻🧡
+
+![image](https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png)
+
 
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
