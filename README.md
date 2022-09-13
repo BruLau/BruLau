@@ -5,7 +5,7 @@
 
 <img align="center">![image](https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png)</img>
 
-<img src="[landingImg](https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png)" align="center"></img>
+<img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img>
 
 I have knowledge in 
 
