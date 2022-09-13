@@ -8,10 +8,16 @@
 <h3 align="center">I have knowledge in:</h3> 
   <div align="center"><div align="center"><label align="center">JavaScript, HTML5, CSS, React, Redux, Express, Node.js</label></div>
   <div align="center"><label align="center">PostgreSQL, Sequalize, MongoDB</label></div>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BruLau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="center">My stats:</h3> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruLau)](https://github.com/anuraghazra/github-readme-stats)
+<hr></hr>
 <h3 align="center">you can contact me at:</h3> 
 <div align="center"><a  href="www.linkedin.com/in/bruno-mateo-lauricella" align="center">My linkedin</a></div>
-<hr></hr>
+
 <h3 align="center">Thanks for viewing my profile, below you can see my projects 👇</h3> 
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
