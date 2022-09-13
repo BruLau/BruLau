@@ -1,10 +1,13 @@
-### Hi, I'm Bruno Lauricella, Welcome to my profile 👋
+<h1 align="center"> Hi, I'm Bruno Lauricella. Welcome to my profile 👋 </h1> 
 
 I am a computer technician and fullstack developer and I love working in the world of technology 💻🧡
 
 ![image](https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png)
 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
 
+I have knowledge in 
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
