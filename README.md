@@ -6,10 +6,10 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img></div>
 
 <h3 align="center">I have knowledge in:</h3> 
-<ol type=”A”>
+<ul>
   <li>JavaScript, HTML5, CSS, React, Redux, Express, Node.js</li>
   <li>PostgreSQL, Sequalize, MongoDB</li>
-</ol>
+</ul>
 
 <!--
 **BruLau/BruLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
