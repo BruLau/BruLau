@@ -6,13 +6,13 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/102839392/189949835-466751f7-7893-4353-8aca-f5bf0248d651.png" align="center"></img></div>
 <hr></hr>
 <h3 align="center">I have knowledge in:</h3> 
-<ul style= "text-decoration:none;">
+<ul style="list-style: none;" align="center">
   <li>JavaScript, HTML5, CSS, React, Redux, Express, Node.js</li>
   <li>PostgreSQL, Sequalize, MongoDB</li>
 </ul>
 
 <h3 align="center">you can contact me at:</h3> 
-<ul>
+<ul style="list-style: none;" align="center">
   <li><a href="www.linkedin.com/in/bruno-mateo-lauricella">My linkedin</a></li>
 </ul>
 <!--
